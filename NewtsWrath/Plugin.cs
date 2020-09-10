@@ -27,12 +27,12 @@ namespace NewtsWrath
             NewtsWrath.nameToken = "Newt's Wrath";
             NewtsWrath.descriptionToken = "Every item is a lunar item.";
             NewtsWrath.smallIconDeselectedSprite = Sprite.Create(
-                Utils.LoadTexture2D(Properties.Resources.IconDeselected),
+                Utils.LoadTexture2D(Properties.Resources.ArtifactDeselected),
                 new Rect(0, 0, 128, 128),
                 new Vector2(0.5f, 0.5f)
             );
             NewtsWrath.smallIconSelectedSprite = Sprite.Create(
-                Utils.LoadTexture2D(Properties.Resources.IconSelected), 
+                Utils.LoadTexture2D(Properties.Resources.ArtifactSelected), 
                 new Rect(0, 0, 128, 128),
                 new Vector2(0.5f, 0.5f)
             );

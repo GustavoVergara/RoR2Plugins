@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="IconDeselected" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="ArtifactDeselected" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\IconDeselected.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="IconSelected" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\IconEnabled.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="ArtifactSelected" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IconSelected.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

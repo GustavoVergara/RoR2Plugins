@@ -63,9 +63,9 @@ namespace NewtsWrath.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] IconDeselected {
+        internal static byte[] ArtifactDeselected {
             get {
-                object obj = ResourceManager.GetObject("IconDeselected", resourceCulture);
+                object obj = ResourceManager.GetObject("ArtifactDeselected", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace NewtsWrath.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] IconSelected {
+        internal static byte[] ArtifactSelected {
             get {
-                object obj = ResourceManager.GetObject("IconSelected", resourceCulture);
+                object obj = ResourceManager.GetObject("ArtifactSelected", resourceCulture);
                 return ((byte[])(obj));
             }
         }
