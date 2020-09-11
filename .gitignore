@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# Libs
+
+libs/Assembly-CSharp.dll
+!libs/Assembly-CSharp.R2API.mm.dll
