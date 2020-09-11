@@ -1,11 +1,11 @@
 ﻿
 # Newt's Wrath
 
-This mod adds a artifact that makes it so every item on the run is a lunar item.
+This mod adds an artifact that makes it so every item on the run is a lunar item.
 
 ## Known Issues
 
-- Somethimes normal chests spawn lunar equipment
+- Sometimes chests spawn lunar equipment
 
 ## Installation
 
@@ -14,4 +14,5 @@ This mod adds a artifact that makes it so every item on the run is a lunar item.
 - Copy 'NewtsWrath.dll' into your 'Risk of Rain 2\BepInEx\plugins' folder
 
 ## Changelog
+- 1.0.1 Fix typo on the readme
 - 1.0.0 First release!

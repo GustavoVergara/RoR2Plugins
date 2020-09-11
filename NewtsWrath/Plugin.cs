@@ -9,7 +9,7 @@ namespace NewtsWrath
 {
 
     [BepInDependency(R2API.R2API.PluginGUID)]
-    [BepInPlugin("com.mush.newtswrath", "Newt's Wrath", "1.0.0")]
+    [BepInPlugin("com.mush.newtswrath", "Newt's Wrath", "1.0.1")]
     public class Plugin : BaseUnityPlugin
     {
         readonly ArtifactDef NewtsWrath = ScriptableObject.CreateInstance<ArtifactDef>();
