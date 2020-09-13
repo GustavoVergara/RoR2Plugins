@@ -79,4 +79,8 @@
     </EmbeddedResource>
   </ItemGroup>
 
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="echo Moving &quot;$(TargetFileName)&quot; to releases&#xD;&#xA;xcopy &quot;$(TargetPath)&quot; &quot;$(SolutionDir)releases\&quot; /Q /Y&#xD;&#xA;rmdir bin /S /Q" />
+  </Target>
+
 </Project>
